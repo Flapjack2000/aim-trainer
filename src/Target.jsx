@@ -13,3 +13,5 @@ function Target({ target, onClick }) {
     </div>
   );
 }
+
+export default Target;
